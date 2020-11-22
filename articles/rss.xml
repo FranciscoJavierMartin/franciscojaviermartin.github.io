@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Starter Blog</title>
+        <link>https://example.com/articles</link>
+        <description>A description for your site here, this will show on the home page.</description>
+        <lastBuildDate>Sun, 22 Nov 2020 09:29:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Getting started]]></title>
+            <link>https://example.com/articles/hello</link>
+            <guid>https://example.com/articles/hello</guid>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Empower your NuxtJS application with @nuxt/content module: write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS.]]></description>
+            <content:encoded><![CDATA[Empower your NuxtJS application with @nuxt/content module: write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kitchen Sink]]></title>
+            <link>https://example.com/articles/kitchen-sink</link>
+            <guid>https://example.com/articles/kitchen-sink</guid>
+            <pubDate>Sun, 02 Aug 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the kitchen sink, all the common markdown elements laid out for you to add styling, really helpful to make sure you don't miss any styles.]]></description>
+            <content:encoded><![CDATA[This is the kitchen sink, all the common markdown elements laid out for you to add styling, really helpful to make sure you don't miss any styles.]]></content:encoded>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Starter Blog",
+    "home_page_url": "https://example.com/articles",
+    "description": "A description for your site here, this will show on the home page.",
+    "items": [
+        {
+            "id": "https://example.com/articles/hello",
+            "content_html": "Empower your NuxtJS application with @nuxt/content module: write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS.",
+            "url": "https://example.com/articles/hello",
+            "title": "Getting started",
+            "summary": "Empower your NuxtJS application with @nuxt/content module: write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS.",
+            "date_modified": "2020-08-01T00:00:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "https://example.com/articles/kitchen-sink",
+            "content_html": "This is the kitchen sink, all the common markdown elements laid out for you to add styling, really helpful to make sure you don't miss any styles.",
+            "url": "https://example.com/articles/kitchen-sink",
+            "title": "Kitchen Sink",
+            "summary": "This is the kitchen sink, all the common markdown elements laid out for you to add styling, really helpful to make sure you don't miss any styles.",
+            "date_modified": "2020-08-02T00:00:00.000Z",
+            "author": {}
+        }
+    ]
+}
